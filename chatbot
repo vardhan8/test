@@ -1,9 +1,9 @@
 import random
-greetings = ['hola', 'hello', 'hi', 'Hi', 'hey!','hey']
+greetings = ['hi', 'hello', 'hi', 'Hi', 'hey!','hey']
 random_greeting = random.choice(greetings)
 
-question = ['How are you?','How are you doing?']
-responses = ['Okay',"I'm fine"]
+question = ['How are you?','how are you']
+responses = ['Am good waiting for you idiot']
 random_response = random.choice(responses)
 
 while True:
